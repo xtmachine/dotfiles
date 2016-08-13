@@ -13,6 +13,8 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'benmills/vimux'
 " Vim-cellmode
 Plugin 'julienr/vim-cellmode'
+" nerdtree
+Plugin 'scrooloose/nerdtree'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
